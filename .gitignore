@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.swn
+*.log
+*.out
+.idea
+cpp-dev.INFO
+build*
